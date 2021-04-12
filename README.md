@@ -1,6 +1,6 @@
 # data-analyst-project-2
 
-##Inventory of files:
+## Inventory of files:
 
 | File Name | File Description |
 | --- | --- |
